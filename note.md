@@ -5,6 +5,8 @@
 # source
 
 [docs](https://gihyo.jp/article/2022/07/java2022-0701)
+[icpc past questions](https://www.cse.kyoto-su.ac.jp/~hiraishi/ICPC/)
+[oracle java api document](https://docs.oracle.com/en/java/javase/20/docs/api/index.html)
 
 # 技術
 
@@ -33,3 +35,21 @@ String.splitメソッドの空文字列の扱い。配列の末尾に空文字�
 ```
 str.split("\"",-1);
 ```
+
+絶対値はjava.lang.Math.abs()
+
+無限大は、Float.POSITIVE_INFINITYと、FLOAT.NEGATIVE_INFINITY;
+
+拡張for
+```
+for(要素の型 cmp: コレクション){}
+```
+
+集合の最大: java.util.Collections.max
+```
+Collections.max(set)
+```
+# 印刷するもの
+
+- このノート
+- 授業ノート
