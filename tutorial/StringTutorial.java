@@ -5,6 +5,7 @@ public class StringTutorial{
         String str = "a1b2c3d4e5ao2pw39q29pa4wef8ijwaep9";
 
         System.out.println(str.charAt(0));
+        System.out.println(str.indexOf('a'));
         System.out.println(str.replaceAll("a","c")); //broken
         System.out.println(str.replaceAll("[0-9][0-9][a-z]","FIND!!")); //broken
         
