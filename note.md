@@ -8,7 +8,13 @@
 [icpc past questions](https://www.cse.kyoto-su.ac.jp/~hiraishi/ICPC/)
 [oracle java api document](https://docs.oracle.com/en/java/javase/20/docs/api/index.html)
 
+# 考え方
+
+あるパラメータに対して最適が求められないかを考える(練習日、休日問題)
+- 最適な分割方法がわからなくとも、休日をk回に分割すると決めたなら均等な分割が最小だとわかっている。この時点でkを走査するだけで良いのだ。
+
 # 技術
+
 
 配列全体を出力したいとき、Arrays.toString()で処理
 ```
