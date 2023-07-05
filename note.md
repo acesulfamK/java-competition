@@ -2,11 +2,16 @@
 
 - java.util
 
+# record 
+
+- 2020c: 27:03
+
 # source
 
-[docs](https://gihyo.jp/article/2022/07/java2022-0701)
-[icpc past questions](https://www.cse.kyoto-su.ac.jp/~hiraishi/ICPC/)
-[oracle java api document](https://docs.oracle.com/en/java/javase/20/docs/api/index.html)
+- [docs](https://gihyo.jp/article/2022/07/java2022-0701)
+- [icpc past questions](https://www.cse.kyoto-su.ac.jp/~hiraishi/ICPC/)
+- [oracle java api document](https://docs.oracle.com/en/java/javase/20/docs/api/index.html)
+- [難易度別](http://aoj-icpc.ichyo.jp/?aoj_rivals=&sort2_order=desc&year_max=&source4=0&aoj_username=&point_max=1200&sort1_order=asc&source2=0&source3=0&source1=1&point_min=100&sort2_by=num_aoj_acceptances&year_min=&sort1_by=point)
 
 # 考え方
 
@@ -15,6 +20,8 @@
 
 # 技術
 
+
+globalを置いたら、毎回初期化されている確認！
 
 配列全体を出力したいとき、Arrays.toString()で処理
 ```
