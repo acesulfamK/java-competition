@@ -3,7 +3,9 @@
 - java.util
 - 2011dの連結成分アルゴリズムを作る(ノードのみ)
  - 元に対して、それと連結なノードのkeyを集合で返す
+ - https://algo-logic.info/is-same-connected-components/
 - ダイクストラアルゴリズムを作る
+- 
 
 # record 
 
